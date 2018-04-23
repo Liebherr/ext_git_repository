@@ -1,2 +1,2 @@
 # ext_git_repository
-external git repository for open SAP course on SCP version control with Git 
+external github repository for open SAP course on SCP version control with Git 
